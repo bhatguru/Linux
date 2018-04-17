@@ -1,1 +1,2 @@
-# Linux
+These are the things i have worked with i trie to keep all them in one place as docs i think it may be helpfull to some one.
+Thank you...
